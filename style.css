@@ -1,0 +1,21 @@
+.carousel-inner img {
+    width: 70%;
+    height: 60%;
+}
+
+.span {
+    color: black;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+#titulo {
+    text-align: center;
+}
+
+.container-fluid img {
+    width: 50%;
+    height: 50%;
+}
